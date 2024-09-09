@@ -11,4 +11,3 @@ go run main.go
 
 ./send_message.sh
 ```
-
